@@ -1,0 +1,52 @@
+Jan 13, 2021 7:51:28 AM classwork.logging.LoggingClass searchDress
+SEVERE: Sample severe message
+Jan 13, 2021 7:51:28 AM classwork.logging.LoggingClass searchDress
+WARNING: This sample warning message
+Jan 13, 2021 7:51:28 AM classwork.logging.LoggingClass searchDress
+INFO: xapth --> //input[@name='search_query']
+Jan 13, 2021 7:51:28 AM classwork.logging.LoggingClass searchDress
+INFO: Search key entered..Summer Dresses
+Jan 13, 2021 7:51:33 AM classwork.logging.LoggingClass searchDress
+INFO: Clicked on Serch button
+Jan 13, 2021 7:51:36 AM classwork.logging.LoggingClass searchDress
+SEVERE: Sample severe message
+Jan 13, 2021 7:51:36 AM classwork.logging.LoggingClass searchDress
+WARNING: This sample warning message
+Jan 13, 2021 7:51:36 AM classwork.logging.LoggingClass searchDress
+INFO: xapth --> //input[@name='search_query']
+Jan 13, 2021 7:51:36 AM classwork.logging.LoggingClass searchDress
+INFO: Search key entered..Winter Dresses
+Jan 13, 2021 7:51:40 AM classwork.logging.LoggingClass searchDress
+INFO: Clicked on Serch button
+Jan 13, 2021 7:51:43 AM classwork.logging.LoggingClass searchDress
+SEVERE: Sample severe message
+Jan 13, 2021 7:51:43 AM classwork.logging.LoggingClass searchDress
+WARNING: This sample warning message
+Jan 13, 2021 7:51:43 AM classwork.logging.LoggingClass searchDress
+INFO: xapth --> //input[@name='search_query']
+Jan 13, 2021 7:51:44 AM classwork.logging.LoggingClass searchDress
+INFO: Search key entered..Casual Dresses
+Jan 13, 2021 7:51:49 AM classwork.logging.LoggingClass searchDress
+INFO: Clicked on Serch button
+Jan 13, 2021 7:51:52 AM classwork.logging.LoggingClass searchDress
+SEVERE: Sample severe message
+Jan 13, 2021 7:51:52 AM classwork.logging.LoggingClass searchDress
+WARNING: This sample warning message
+Jan 13, 2021 7:51:52 AM classwork.logging.LoggingClass searchDress
+INFO: xapth --> //input[@name='search_query']
+Jan 13, 2021 7:51:52 AM classwork.logging.LoggingClass searchDress
+INFO: Search key entered..T-Shirts
+Jan 13, 2021 7:51:57 AM classwork.logging.LoggingClass searchDress
+INFO: Clicked on Serch button
+Jan 13, 2021 7:52:00 AM classwork.logging.LoggingClass searchDress
+SEVERE: Sample severe message
+Jan 13, 2021 7:52:00 AM classwork.logging.LoggingClass searchDress
+WARNING: This sample warning message
+Jan 13, 2021 7:52:00 AM classwork.logging.LoggingClass searchDress
+INFO: xapth --> //input[@name='search_query']
+Jan 13, 2021 7:52:01 AM classwork.logging.LoggingClass searchDress
+INFO: Search key entered..Cotton Dresses
+Jan 13, 2021 7:52:06 AM classwork.logging.LoggingClass searchDress
+INFO: Clicked on Serch button
+Jan 13, 2021 7:52:14 AM classwork.logging.LoggingClass close
+INFO: closing browser

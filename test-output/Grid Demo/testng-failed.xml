@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [Grid Demo]" parallel="classes">
+  <test thread-count="2" name="Grid classes(failed)" parallel="classes">
+    <classes>
+      <class name="classwork.grid.GridDemo2">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="launchBrowser"/>
+          <include name="createNewUser"/>
+        </methods>
+      </class> <!-- classwork.grid.GridDemo2 -->
+    </classes>
+  </test> <!-- Grid classes(failed) -->
+</suite> <!-- Failed suite [Grid Demo] -->

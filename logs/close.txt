@@ -1,0 +1,2 @@
+Jan 12, 2021 8:30:57 AM classwork.logging.SearchLogging close
+INFO: closing browser

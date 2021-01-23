@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-12T08:46:00</date>
+  <millis>1610421360599</millis>
+  <sequence>6</sequence>
+  <logger>logs\searchDress2021_01_12_08_46_00.xml</logger>
+  <level>SEVERE</level>
+  <class>classwork.logging.SearchLogging</class>
+  <method>searchDress</method>
+  <thread>1</thread>
+  <message>Sample severe message</message>
+</record>
+<record>
+  <date>2021-01-12T08:46:00</date>
+  <millis>1610421360600</millis>
+  <sequence>7</sequence>
+  <logger>logs\searchDress2021_01_12_08_46_00.xml</logger>
+  <level>WARNING</level>
+  <class>classwork.logging.SearchLogging</class>
+  <method>searchDress</method>
+  <thread>1</thread>
+  <message>This sample warning message</message>
+</record>
+<record>
+  <date>2021-01-12T08:46:00</date>
+  <millis>1610421360602</millis>
+  <sequence>8</sequence>
+  <logger>logs\searchDress2021_01_12_08_46_00.xml</logger>
+  <level>INFO</level>
+  <class>classwork.logging.SearchLogging</class>
+  <method>searchDress</method>
+  <thread>1</thread>
+  <message>xapth --&gt; //input[@name='search_query']</message>
+</record>
+<record>
+  <date>2021-01-12T08:46:00</date>
+  <millis>1610421360961</millis>
+  <sequence>9</sequence>
+  <logger>logs\searchDress2021_01_12_08_46_00.xml</logger>
+  <level>INFO</level>
+  <class>classwork.logging.SearchLogging</class>
+  <method>searchDress</method>
+  <thread>1</thread>
+  <message>Search key entered..Winter Dresses</message>
+</record>
+<record>
+  <date>2021-01-12T08:46:05</date>
+  <millis>1610421365500</millis>
+  <sequence>10</sequence>
+  <logger>logs\searchDress2021_01_12_08_46_00.xml</logger>
+  <level>INFO</level>
+  <class>classwork.logging.SearchLogging</class>
+  <method>searchDress</method>
+  <thread>1</thread>
+  <message>Clicked on Serch button</message>
+</record>
+</log>

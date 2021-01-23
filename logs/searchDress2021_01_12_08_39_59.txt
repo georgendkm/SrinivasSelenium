@@ -1,0 +1,10 @@
+Jan 12, 2021 8:39:59 AM classwork.logging.SearchLogging searchDress
+SEVERE: Sample severe message
+Jan 12, 2021 8:39:59 AM classwork.logging.SearchLogging searchDress
+WARNING: This sample warning message
+Jan 12, 2021 8:39:59 AM classwork.logging.SearchLogging searchDress
+INFO: xapth --> //input[@name='search_query']
+Jan 12, 2021 8:39:59 AM classwork.logging.SearchLogging searchDress
+INFO: Search key entered..T-Shirts
+Jan 12, 2021 8:40:04 AM classwork.logging.SearchLogging searchDress
+INFO: Clicked on Serch button

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-12T08:43:12</date>
+  <millis>1610421192042</millis>
+  <sequence>26</sequence>
+  <logger>logs\close2021_01_12_08_43_07.xml</logger>
+  <level>INFO</level>
+  <class>classwork.logging.SearchLogging</class>
+  <method>close</method>
+  <thread>1</thread>
+  <message>closing browser</message>
+</record>
+</log>
